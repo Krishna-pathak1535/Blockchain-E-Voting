@@ -119,7 +119,7 @@ Feel free to explore the project on GitHub, contribute, or contact me if you'd l
 ---
 
 ### **Contact Information**:
-- **LinkedIn**: [Krishna Anand Pathak](https://www.linkedin.com/in/krishnanand-pathak/)
+- **LinkedIn**: [Krishna Nand Pathak](https://www.linkedin.com/in/krishnanand-pathak/)
 - **GitHub**: [Krishna-pathak1535](https://github.com/Krishna-pathak1535)
 
 ---
